@@ -1,0 +1,2 @@
+# Enacting formula
+BEITENACTEDbytheStateofOsunHouseofAssembly in thisLegislative Session convened asfollows:
