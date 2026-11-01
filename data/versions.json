@@ -1,0 +1,19 @@
+{
+ "country": "NG-OS",
+ "acts": [
+  {
+   "slug": "public-procurement-law-2015",
+   "short": "Public Procurement Law 2015",
+   "title": "State of Osun Public Procurement Law, 2015 (No. 8 of 2015)",
+   "url": "https://www.osunstate.gov.ng/wp-content/uploads/2019/01/State-of-Osun-Public-Procurement-Law-2015.pdf",
+   "versions": [
+    {
+     "from": "2015-02-10",
+     "units": 77,
+     "source_url": "https://www.osunstate.gov.ng/wp-content/uploads/2019/01/State-of-Osun-Public-Procurement-Law-2015.pdf",
+     "sha256": "5d00c860294e06343b6849a0336157fa1527ffe7c47fc21411e85b9e76f29142"
+    }
+   ]
+  }
+ ]
+}

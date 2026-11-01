@@ -1,0 +1,8 @@
+{
+  "path": "ng-os",
+  "code": "NG-OS",
+  "name": "State of Osun",
+  "level": "country",
+  "repo": "https://github.com/lexifina/nigeria-osun-law",
+  "build": "built: Laws of State of Osun as enacted, from the copies published by the State Government of Osun"
+}

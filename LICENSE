@@ -1,0 +1,15 @@
+Law texts
+
+The texts in this repository are Laws of State of Osun, taken from the copies the State Government of Osun publishes at
+osunstate.gov.ng (its resources pages).
+
+- Copyright: the Copyright Act, 2022 (Nigeria), s. 3, says: "The following shall not be eligible for copyright -- ...
+  (b) official texts of a legislative or administrative nature as well as any official translations, except their
+  compilations". The Laws here are such official texts. Any general copyright notice on the website does not reach
+  texts that are not eligible for copyright; no compilation of the Government's is copied.
+- The Government's PDFs are not the authoritative text: the Laws as published in the State of Osun Official Gazette are.
+
+Attribution: Source: State Government of Osun, https://osunstate.gov.ng.
+
+Everything else (the git history's structure, the tools and the documentation): CC0 1.0 Universal,
+https://creativecommons.org/publicdomain/zero/1.0/legalcode
