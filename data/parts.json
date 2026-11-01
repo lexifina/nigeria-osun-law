@@ -1,0 +1,11 @@
+{
+ "parts": {
+  "10-laws-01.json": {
+   "acts": [
+    "public-procurement-law-2015"
+   ],
+   "sha256": "2c1140e0683b4022c49afb3a79540df94c99fba9da223e7b1bfa576ad33318a3"
+  }
+ },
+ "schema": 1
+}
