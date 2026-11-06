@@ -1,5 +1,7 @@
 # State of Osun: law history in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the law of State of Osun, Nigeria, which global-law reads at `nigeria/osun/acts/`.
+
 The Laws of State of Osun (Nigeria) as a git history: one file per section, one paragraph per line, so `git blame`, `git log` and `git diff` work line by line. The text is the English text of the Laws as enacted.
 
 It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law).
